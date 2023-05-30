@@ -1,1 +1,25 @@
-p{color:red;}
+}body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+img {
+    height: 140px;
+    margin: 10px;
+}
+
+.solid{
+   
+}
+
+.dashed {
+   
+}
+
+.dotted {
+   
+
